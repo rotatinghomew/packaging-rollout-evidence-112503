@@ -75,144 +75,144 @@
     "piece": "P02-1-1",
     "box": "P02-1",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P02-1-2",
     "box": "P02-1",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P02-1-3",
     "box": "P02-1",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P02-2-1",
     "box": "P02-2",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P02-2-2",
     "box": "P02-2",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P02-2-3",
     "box": "P02-2",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P02-3-1",
     "box": "P02-3",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P02-3-2",
     "box": "P02-3",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P02-3-3",
     "box": "P02-3",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P03-1-1",
     "box": "P03-1",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P03-1-2",
     "box": "P03-1",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P03-1-3",
     "box": "P03-1",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P03-2-1",
     "box": "P03-2",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P03-2-2",
     "box": "P03-2",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P03-2-3",
     "box": "P03-2",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P03-3-1",
     "box": "P03-3",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P03-3-2",
     "box": "P03-3",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P03-3-3",
     "box": "P03-3",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
@@ -507,72 +507,72 @@
     "piece": "P08-1-1",
     "box": "P08-1",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P08-1-2",
     "box": "P08-1",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P08-1-3",
     "box": "P08-1",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P08-2-1",
     "box": "P08-2",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P08-2-2",
     "box": "P08-2",
     "group": "脆件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "材料未齐"
   },
   {
     "piece": "P08-2-3",
     "box": "P08-2",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "材料未齐"
   },
   {
     "piece": "P08-3-1",
     "box": "P08-3",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P08-3-2",
     "box": "P08-3",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "材料未齐"
   },
   {
     "piece": "P08-3-3",
     "box": "P08-3",
     "group": "长件",
-    "actual": "现行",
-    "grams": 41,
+    "actual": "节材",
+    "grams": 30,
     "deviation": "材料未齐"
   },
   {
@@ -651,432 +651,432 @@
     "piece": "P10-1-1",
     "box": "P10-1",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P10-1-2",
     "box": "P10-1",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P10-1-3",
     "box": "P10-1",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P10-2-1",
     "box": "P10-2",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P10-2-2",
     "box": "P10-2",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P10-2-3",
     "box": "P10-2",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P10-3-1",
     "box": "P10-3",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P10-3-2",
     "box": "P10-3",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P10-3-3",
     "box": "P10-3",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P11-1-1",
     "box": "P11-1",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P11-1-2",
     "box": "P11-1",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P11-1-3",
     "box": "P11-1",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P11-2-1",
     "box": "P11-2",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P11-2-2",
     "box": "P11-2",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P11-2-3",
     "box": "P11-2",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P11-3-1",
     "box": "P11-3",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P11-3-2",
     "box": "P11-3",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P11-3-3",
     "box": "P11-3",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P12-1-1",
     "box": "P12-1",
     "group": "长件",
-    "actual": "现行",
-    "grams": 41,
+    "actual": "节材",
+    "grams": 30,
     "deviation": "按计划"
   },
   {
     "piece": "P12-1-2",
     "box": "P12-1",
     "group": "脆件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P12-1-3",
     "box": "P12-1",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P12-2-1",
     "box": "P12-2",
     "group": "脆件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P12-2-2",
     "box": "P12-2",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "材料未齐"
   },
   {
     "piece": "P12-2-3",
     "box": "P12-2",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "材料未齐"
   },
   {
     "piece": "P12-3-1",
     "box": "P12-3",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P12-3-2",
     "box": "P12-3",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "材料未齐"
   },
   {
     "piece": "P12-3-3",
     "box": "P12-3",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "材料未齐"
   },
   {
     "piece": "P13-1-1",
     "box": "P13-1",
     "group": "脆件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P13-1-2",
     "box": "P13-1",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P13-1-3",
     "box": "P13-1",
     "group": "长件",
-    "actual": "现行",
-    "grams": 41,
+    "actual": "节材",
+    "grams": 30,
     "deviation": "按计划"
   },
   {
     "piece": "P13-2-1",
     "box": "P13-2",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P13-2-2",
     "box": "P13-2",
     "group": "长件",
-    "actual": "现行",
-    "grams": 41,
+    "actual": "节材",
+    "grams": 30,
     "deviation": "按计划"
   },
   {
     "piece": "P13-2-3",
     "box": "P13-2",
     "group": "脆件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P13-3-1",
     "box": "P13-3",
     "group": "长件",
-    "actual": "现行",
-    "grams": 41,
+    "actual": "节材",
+    "grams": 30,
     "deviation": "按计划"
   },
   {
     "piece": "P13-3-2",
     "box": "P13-3",
     "group": "脆件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P13-3-3",
     "box": "P13-3",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P14-1-1",
     "box": "P14-1",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P14-1-2",
     "box": "P14-1",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P14-1-3",
     "box": "P14-1",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P14-2-1",
     "box": "P14-2",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P14-2-2",
     "box": "P14-2",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P14-2-3",
     "box": "P14-2",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P14-3-1",
     "box": "P14-3",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P14-3-2",
     "box": "P14-3",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P14-3-3",
     "box": "P14-3",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P15-1-1",
     "box": "P15-1",
     "group": "长件",
-    "actual": "现行",
-    "grams": 41,
+    "actual": "节材",
+    "grams": 30,
     "deviation": "按计划"
   },
   {
     "piece": "P15-1-2",
     "box": "P15-1",
     "group": "脆件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P15-1-3",
     "box": "P15-1",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P15-2-1",
     "box": "P15-2",
     "group": "脆件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P15-2-2",
     "box": "P15-2",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P15-2-3",
     "box": "P15-2",
     "group": "长件",
-    "actual": "现行",
-    "grams": 41,
+    "actual": "节材",
+    "grams": 30,
     "deviation": "按计划"
   },
   {
     "piece": "P15-3-1",
     "box": "P15-3",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P15-3-2",
     "box": "P15-3",
     "group": "长件",
-    "actual": "现行",
-    "grams": 41,
+    "actual": "节材",
+    "grams": 30,
     "deviation": "按计划"
   },
   {
     "piece": "P15-3-3",
     "box": "P15-3",
     "group": "脆件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
@@ -1155,144 +1155,144 @@
     "piece": "P17-1-1",
     "box": "P17-1",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P17-1-2",
     "box": "P17-1",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P17-1-3",
     "box": "P17-1",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P17-2-1",
     "box": "P17-2",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P17-2-2",
     "box": "P17-2",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P17-2-3",
     "box": "P17-2",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P17-3-1",
     "box": "P17-3",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P17-3-2",
     "box": "P17-3",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P17-3-3",
     "box": "P17-3",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P18-1-1",
     "box": "P18-1",
     "group": "长件",
-    "actual": "现行",
-    "grams": 41,
+    "actual": "节材",
+    "grams": 30,
     "deviation": "按计划"
   },
   {
     "piece": "P18-1-2",
     "box": "P18-1",
     "group": "脆件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P18-1-3",
     "box": "P18-1",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P18-2-1",
     "box": "P18-2",
     "group": "脆件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P18-2-2",
     "box": "P18-2",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P18-2-3",
     "box": "P18-2",
     "group": "长件",
-    "actual": "现行",
-    "grams": 41,
+    "actual": "节材",
+    "grams": 30,
     "deviation": "按计划"
   },
   {
     "piece": "P18-3-1",
     "box": "P18-3",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P18-3-2",
     "box": "P18-3",
     "group": "长件",
-    "actual": "现行",
-    "grams": 41,
+    "actual": "节材",
+    "grams": 30,
     "deviation": "按计划"
   },
   {
     "piece": "P18-3-3",
     "box": "P18-3",
     "group": "脆件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
@@ -1443,72 +1443,72 @@
     "piece": "P21-1-1",
     "box": "P21-1",
     "group": "长件",
-    "actual": "现行",
-    "grams": 41,
+    "actual": "节材",
+    "grams": 30,
     "deviation": "按计划"
   },
   {
     "piece": "P21-1-2",
     "box": "P21-1",
     "group": "脆件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P21-1-3",
     "box": "P21-1",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P21-2-1",
     "box": "P21-2",
     "group": "脆件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P21-2-2",
     "box": "P21-2",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P21-2-3",
     "box": "P21-2",
     "group": "长件",
-    "actual": "现行",
-    "grams": 41,
+    "actual": "节材",
+    "grams": 30,
     "deviation": "按计划"
   },
   {
     "piece": "P21-3-1",
     "box": "P21-3",
     "group": "坚固件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
     "piece": "P21-3-2",
     "box": "P21-3",
     "group": "长件",
-    "actual": "现行",
-    "grams": 41,
+    "actual": "节材",
+    "grams": 30,
     "deviation": "按计划"
   },
   {
     "piece": "P21-3-3",
     "box": "P21-3",
     "group": "脆件",
-    "actual": "现行",
-    "grams": 38,
+    "actual": "节材",
+    "grams": 27,
     "deviation": "按计划"
   },
   {
@@ -1587,72 +1587,72 @@
     "piece": "P23-1-1",
     "box": "P23-1",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P23-1-2",
     "box": "P23-1",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P23-1-3",
     "box": "P23-1",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P23-2-1",
     "box": "P23-2",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
     "piece": "P23-2-2",
     "box": "P23-2",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P23-2-3",
     "box": "P23-2",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P23-3-1",
     "box": "P23-3",
     "group": "脆件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P23-3-2",
     "box": "P23-3",
     "group": "坚固件",
-    "actual": "节材",
-    "grams": 27,
+    "actual": "现行",
+    "grams": 38,
     "deviation": "按计划"
   },
   {
     "piece": "P23-3-3",
     "box": "P23-3",
     "group": "长件",
-    "actual": "节材",
-    "grams": 30,
+    "actual": "现行",
+    "grams": 41,
     "deviation": "按计划"
   },
   {
