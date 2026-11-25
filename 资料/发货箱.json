@@ -1,0 +1,578 @@
+[
+  {
+    "box": "P01-1",
+    "assignment": "P01",
+    "packed": 8,
+    "delivered": 11,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P01-2",
+    "assignment": "P01",
+    "packed": 8,
+    "delivered": 11,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P01-3",
+    "assignment": "P01",
+    "packed": 8,
+    "delivered": 11,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P02-1",
+    "assignment": "P02",
+    "packed": 11,
+    "delivered": 15,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P02-2",
+    "assignment": "P02",
+    "packed": 11,
+    "delivered": 15,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P02-3",
+    "assignment": "P02",
+    "packed": 11,
+    "delivered": 15,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P03-1",
+    "assignment": "P03",
+    "packed": 14,
+    "delivered": 16,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P03-2",
+    "assignment": "P03",
+    "packed": 14,
+    "delivered": 16,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P03-3",
+    "assignment": "P03",
+    "packed": 14,
+    "delivered": 16,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P04-1",
+    "assignment": "P04",
+    "packed": 17,
+    "delivered": 20,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P04-2",
+    "assignment": "P04",
+    "packed": 17,
+    "delivered": 20,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P04-3",
+    "assignment": "P04",
+    "packed": 17,
+    "delivered": 20,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P05-1",
+    "assignment": "P05",
+    "packed": 20,
+    "delivered": 24,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P05-2",
+    "assignment": "P05",
+    "packed": 20,
+    "delivered": 24,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P05-3",
+    "assignment": "P05",
+    "packed": 20,
+    "delivered": 24,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P06-1",
+    "assignment": "P06",
+    "packed": 23,
+    "delivered": 25,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P06-2",
+    "assignment": "P06",
+    "packed": 23,
+    "delivered": 25,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P06-3",
+    "assignment": "P06",
+    "packed": 23,
+    "delivered": 25,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P07-1",
+    "assignment": "P07",
+    "packed": 26,
+    "delivered": 29,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P07-2",
+    "assignment": "P07",
+    "packed": 26,
+    "delivered": 29,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P07-3",
+    "assignment": "P07",
+    "packed": 26,
+    "delivered": 29,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P08-1",
+    "assignment": "P08",
+    "packed": 29,
+    "delivered": 33,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P08-2",
+    "assignment": "P08",
+    "packed": 29,
+    "delivered": 33,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P08-3",
+    "assignment": "P08",
+    "packed": 29,
+    "delivered": 33,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P09-1",
+    "assignment": "P09",
+    "packed": 32,
+    "delivered": 34,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P09-2",
+    "assignment": "P09",
+    "packed": 32,
+    "delivered": 34,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P09-3",
+    "assignment": "P09",
+    "packed": 32,
+    "delivered": 34,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P10-1",
+    "assignment": "P10",
+    "packed": 35,
+    "delivered": 38,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P10-2",
+    "assignment": "P10",
+    "packed": 35,
+    "delivered": 38,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P10-3",
+    "assignment": "P10",
+    "packed": 35,
+    "delivered": 38,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P11-1",
+    "assignment": "P11",
+    "packed": 38,
+    "delivered": 42,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P11-2",
+    "assignment": "P11",
+    "packed": 38,
+    "delivered": 42,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P11-3",
+    "assignment": "P11",
+    "packed": 38,
+    "delivered": 42,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P12-1",
+    "assignment": "P12",
+    "packed": 41,
+    "delivered": 43,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P12-2",
+    "assignment": "P12",
+    "packed": 41,
+    "delivered": 43,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P12-3",
+    "assignment": "P12",
+    "packed": 41,
+    "delivered": 43,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P13-1",
+    "assignment": "P13",
+    "packed": 44,
+    "delivered": 47,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P13-2",
+    "assignment": "P13",
+    "packed": 44,
+    "delivered": 47,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P13-3",
+    "assignment": "P13",
+    "packed": 44,
+    "delivered": 47,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P14-1",
+    "assignment": "P14",
+    "packed": 47,
+    "delivered": 51,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P14-2",
+    "assignment": "P14",
+    "packed": 47,
+    "delivered": 51,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P14-3",
+    "assignment": "P14",
+    "packed": 47,
+    "delivered": 51,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P15-1",
+    "assignment": "P15",
+    "packed": 50,
+    "delivered": 52,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P15-2",
+    "assignment": "P15",
+    "packed": 50,
+    "delivered": 52,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P15-3",
+    "assignment": "P15",
+    "packed": 50,
+    "delivered": 52,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P16-1",
+    "assignment": "P16",
+    "packed": 53,
+    "delivered": 56,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P16-2",
+    "assignment": "P16",
+    "packed": 53,
+    "delivered": 56,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P16-3",
+    "assignment": "P16",
+    "packed": 53,
+    "delivered": 56,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P17-1",
+    "assignment": "P17",
+    "packed": 56,
+    "delivered": 60,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P17-2",
+    "assignment": "P17",
+    "packed": 56,
+    "delivered": 60,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P17-3",
+    "assignment": "P17",
+    "packed": 56,
+    "delivered": 60,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P18-1",
+    "assignment": "P18",
+    "packed": 59,
+    "delivered": 61,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P18-2",
+    "assignment": "P18",
+    "packed": 59,
+    "delivered": 61,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P18-3",
+    "assignment": "P18",
+    "packed": 59,
+    "delivered": 61,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P19-1",
+    "assignment": "P19",
+    "packed": 62,
+    "delivered": 65,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P19-2",
+    "assignment": "P19",
+    "packed": 62,
+    "delivered": 65,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P19-3",
+    "assignment": "P19",
+    "packed": 62,
+    "delivered": 65,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P20-1",
+    "assignment": "P20",
+    "packed": 65,
+    "delivered": 69,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P20-2",
+    "assignment": "P20",
+    "packed": 65,
+    "delivered": 69,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P20-3",
+    "assignment": "P20",
+    "packed": 65,
+    "delivered": 69,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P21-1",
+    "assignment": "P21",
+    "packed": 68,
+    "delivered": 70,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P21-2",
+    "assignment": "P21",
+    "packed": 68,
+    "delivered": 70,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P21-3",
+    "assignment": "P21",
+    "packed": 68,
+    "delivered": 70,
+    "status": "在售后",
+    "pieces": 3
+  },
+  {
+    "box": "P22-1",
+    "assignment": "P22",
+    "packed": 71,
+    "delivered": null,
+    "status": "已装未发",
+    "pieces": 3
+  },
+  {
+    "box": "P22-2",
+    "assignment": "P22",
+    "packed": 71,
+    "delivered": null,
+    "status": "已装未发",
+    "pieces": 3
+  },
+  {
+    "box": "P22-3",
+    "assignment": "P22",
+    "packed": 71,
+    "delivered": null,
+    "status": "已装未发",
+    "pieces": 3
+  },
+  {
+    "box": "P23-1",
+    "assignment": "P23",
+    "packed": 74,
+    "delivered": null,
+    "status": "已装未发",
+    "pieces": 3
+  },
+  {
+    "box": "P23-2",
+    "assignment": "P23",
+    "packed": 74,
+    "delivered": null,
+    "status": "已装未发",
+    "pieces": 3
+  },
+  {
+    "box": "P23-3",
+    "assignment": "P23",
+    "packed": 74,
+    "delivered": null,
+    "status": "已装未发",
+    "pieces": 3
+  },
+  {
+    "box": "P24-1",
+    "assignment": "P24",
+    "packed": 77,
+    "delivered": null,
+    "status": "已装未发",
+    "pieces": 3
+  },
+  {
+    "box": "P24-2",
+    "assignment": "P24",
+    "packed": 77,
+    "delivered": null,
+    "status": "已装未发",
+    "pieces": 3
+  },
+  {
+    "box": "P24-3",
+    "assignment": "P24",
+    "packed": 77,
+    "delivered": null,
+    "status": "已装未发",
+    "pieces": 3
+  }
+]

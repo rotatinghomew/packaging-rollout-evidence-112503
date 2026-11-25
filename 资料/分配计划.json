@@ -1,0 +1,218 @@
+[
+  {
+    "assignment": "P01",
+    "wave": "波01",
+    "area": "跨区",
+    "planned": "现行",
+    "day": 8,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P02",
+    "wave": "波01",
+    "area": "近程",
+    "planned": "节材",
+    "day": 11,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P03",
+    "wave": "波02",
+    "area": "跨区",
+    "planned": "节材",
+    "day": 14,
+    "propensity": 0.5,
+    "stratum": "混型组"
+  },
+  {
+    "assignment": "P04",
+    "wave": "波02",
+    "area": "近程",
+    "planned": "现行",
+    "day": 17,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P05",
+    "wave": "波03",
+    "area": "跨区",
+    "planned": "节材",
+    "day": 20,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P06",
+    "wave": "波03",
+    "area": "近程",
+    "planned": "现行",
+    "day": 23,
+    "propensity": 0.5,
+    "stratum": "混型组"
+  },
+  {
+    "assignment": "P07",
+    "wave": "波04",
+    "area": "跨区",
+    "planned": "现行",
+    "day": 26,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P08",
+    "wave": "波04",
+    "area": "近程",
+    "planned": "节材",
+    "day": 29,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P09",
+    "wave": "波05",
+    "area": "跨区",
+    "planned": "节材",
+    "day": 32,
+    "propensity": 0.5,
+    "stratum": "混型组"
+  },
+  {
+    "assignment": "P10",
+    "wave": "波05",
+    "area": "近程",
+    "planned": "节材",
+    "day": 35,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P11",
+    "wave": "波06",
+    "area": "跨区",
+    "planned": "节材",
+    "day": 38,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P12",
+    "wave": "波06",
+    "area": "近程",
+    "planned": "现行",
+    "day": 41,
+    "propensity": 0.5,
+    "stratum": "混型组"
+  },
+  {
+    "assignment": "P13",
+    "wave": "波07",
+    "area": "跨区",
+    "planned": "现行",
+    "day": 44,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P14",
+    "wave": "波07",
+    "area": "近程",
+    "planned": "节材",
+    "day": 47,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P15",
+    "wave": "波08",
+    "area": "跨区",
+    "planned": "现行",
+    "day": 50,
+    "propensity": 0.5,
+    "stratum": "混型组"
+  },
+  {
+    "assignment": "P16",
+    "wave": "波08",
+    "area": "近程",
+    "planned": "节材",
+    "day": 53,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P17",
+    "wave": "波09",
+    "area": "跨区",
+    "planned": "节材",
+    "day": 56,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P18",
+    "wave": "波09",
+    "area": "近程",
+    "planned": "现行",
+    "day": 59,
+    "propensity": 0.5,
+    "stratum": "混型组"
+  },
+  {
+    "assignment": "P19",
+    "wave": "波10",
+    "area": "跨区",
+    "planned": "现行",
+    "day": 62,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P20",
+    "wave": "波10",
+    "area": "近程",
+    "planned": "现行",
+    "day": 65,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P21",
+    "wave": "波11",
+    "area": "跨区",
+    "planned": "现行",
+    "day": 68,
+    "propensity": 0.5,
+    "stratum": "混型组"
+  },
+  {
+    "assignment": "P22",
+    "wave": "波11",
+    "area": "近程",
+    "planned": "节材",
+    "day": 71,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P23",
+    "wave": "波12",
+    "area": "跨区",
+    "planned": "节材",
+    "day": 74,
+    "propensity": 0.5,
+    "stratum": "脆件组"
+  },
+  {
+    "assignment": "P24",
+    "wave": "波12",
+    "area": "近程",
+    "planned": "现行",
+    "day": 77,
+    "propensity": 0.5,
+    "stratum": "混型组"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "receipt": "SP03-3",
+    "box": "P03-3",
+    "opened": 20,
+    "affected_max": 1,
+    "possible_pieces": [
+      "P03-3-1",
+      "P03-3-2"
+    ],
+    "confirmed_at": null,
+    "reason": "破损"
+  },
+  {
+    "receipt": "SP04-2",
+    "box": "P04-2",
+    "opened": 23,
+    "affected_max": 1,
+    "possible_pieces": [
+      "P04-2-3"
+    ],
+    "confirmed_at": 25,
+    "reason": "破损"
+  },
+  {
+    "receipt": "SP05-1",
+    "box": "P05-1",
+    "opened": 26,
+    "affected_max": 1,
+    "possible_pieces": [
+      "P05-1-1",
+      "P05-1-2"
+    ],
+    "confirmed_at": null,
+    "reason": "破损"
+  },
+  {
+    "receipt": "SP09-3",
+    "box": "P09-3",
+    "opened": 38,
+    "affected_max": 1,
+    "possible_pieces": [
+      "P09-3-1",
+      "P09-3-2"
+    ],
+    "confirmed_at": null,
+    "reason": "破损"
+  },
+  {
+    "receipt": "SP10-2",
+    "box": "P10-2",
+    "opened": 41,
+    "affected_max": 1,
+    "possible_pieces": [
+      "P10-2-3"
+    ],
+    "confirmed_at": 43,
+    "reason": "破损"
+  },
+  {
+    "receipt": "SP11-1",
+    "box": "P11-1",
+    "opened": 44,
+    "affected_max": 1,
+    "possible_pieces": [
+      "P11-1-1",
+      "P11-1-2"
+    ],
+    "confirmed_at": null,
+    "reason": "破损"
+  },
+  {
+    "receipt": "SP15-3",
+    "box": "P15-3",
+    "opened": 56,
+    "affected_max": 1,
+    "possible_pieces": [
+      "P15-3-1",
+      "P15-3-2"
+    ],
+    "confirmed_at": null,
+    "reason": "破损"
+  },
+  {
+    "receipt": "SP16-2",
+    "box": "P16-2",
+    "opened": 59,
+    "affected_max": 1,
+    "possible_pieces": [
+      "P16-2-3"
+    ],
+    "confirmed_at": 61,
+    "reason": "破损"
+  },
+  {
+    "receipt": "SP17-1",
+    "box": "P17-1",
+    "opened": 62,
+    "affected_max": 1,
+    "possible_pieces": [
+      "P17-1-1",
+      "P17-1-2"
+    ],
+    "confirmed_at": null,
+    "reason": "破损"
+  },
+  {
+    "receipt": "SP21-3",
+    "box": "P21-3",
+    "opened": 74,
+    "affected_max": 1,
+    "possible_pieces": [
+      "P21-3-1",
+      "P21-3-2"
+    ],
+    "confirmed_at": null,
+    "reason": "破损"
+  }
+]

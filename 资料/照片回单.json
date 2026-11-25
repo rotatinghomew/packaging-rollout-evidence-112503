@@ -1,0 +1,16 @@
+[
+  {
+    "id": "PIC1",
+    "receipt": "SP17-1",
+    "piece": "P17-1-1",
+    "judgement": "确认破损",
+    "known_at": 81
+  },
+  {
+    "id": "PIC2",
+    "receipt": "SP21-3",
+    "piece": "P21-3-2",
+    "judgement": "确认破损",
+    "known_at": 85
+  }
+]

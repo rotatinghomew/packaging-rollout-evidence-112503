@@ -1,0 +1,55 @@
+{
+  "looks": [
+    {
+      "day": 43,
+      "max_false_positive": 0.0125
+    },
+    {
+      "day": 65,
+      "max_false_positive": 0.0225
+    },
+    {
+      "day": 91,
+      "max_false_positive": 0.015
+    }
+  ],
+  "damage_window_days": 12,
+  "min_saved_grams": 5,
+  "damage_margin_by_group": {
+    "脆件": 0.02,
+    "坚固件": 0.035,
+    "长件": 0.025
+  },
+  "batches": [
+    {
+      "id": "次日甲",
+      "groups": [
+        "脆件",
+        "长件"
+      ],
+      "boxes": 3,
+      "required_material": 320
+    },
+    {
+      "id": "次日乙",
+      "groups": [
+        "坚固件"
+      ],
+      "boxes": 7,
+      "required_material": 630
+    }
+  ],
+  "commitments": [
+    {
+      "id": "ACK1",
+      "batch": "次日甲",
+      "grams": 220,
+      "status": "已留用"
+    },
+    {
+      "id": "ACK2",
+      "box": "P23-2",
+      "status": "来不及重包"
+    }
+  ]
+}
